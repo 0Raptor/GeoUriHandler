@@ -8,9 +8,10 @@ Exemplarily [OpenStreetMap](https://www.openstreetmap.org) is used as service to
 
 ## Usage
 
-For each OS that has a supported add-on, a subfolder is created. Please refer to the README-files inside this folder.
+For each OS that has a supported add-on, a subfolder is created. Please refer to the README-files inside these folders.
 
 - [Windows](Windows/README.md)
+- [Linux Desktop with xdg-utils](Linux_xdg-utils/README.md)
 
 ## License
 
