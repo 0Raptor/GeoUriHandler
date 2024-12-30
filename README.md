@@ -13,6 +13,10 @@ For each OS that has a supported add-on, a subfolder is created. Please refer to
 - [Windows](Windows/README.md)
 - [Linux Desktop with xdg-utils](Linux_xdg-utils/README.md)
 
+For Webbrowser-internal handling, browser add-ons can be used. This can be useful if the system configuration must not be altered but has the downsite that non-browser-based applications still cannot handle geo-URIs.
+
+- [Mozilla Firefox](Firefox/README.md)
+
 ## License
 
 This project is licensed under the MIT-License described in the [LICENSE file](LICENSE).
